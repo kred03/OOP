@@ -1,0 +1,34 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=079a4e0c_002D86dc_002D4b04_002Db742_002D8f28c4129dda/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddShapeHandlerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.AddShapeHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.MoveShapeHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.RemoveShapeHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.FillShapeHandlerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c8d0f135_002D9e6c_002D4af3_002D9962_002D160368b79186/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddShape_ShouldAddShapeToDictionary" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.Tests.FileServiceTests.SaveCanvasHandlerTests.SaveCanvas_ShouldCreateFile&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.Tests.FileServiceTests.LoadCanvasHandlerTests.LoadCanvas_ShouldReturnNull_WhenFileDoesNotExist&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.Tests.FileServiceTests.LoadCanvasHandlerTests.LoadCanvas_ShouldLoadCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.Tests.HistoryServiceTests.SaveStateHandlerTests.SaveState_ShouldStoreCurrentState&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.Tests.HistoryServiceTests.UndoHandlerTests.Undo_ShouldRevertToPreviousState&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.Tests.HistoryServiceTests.RedoHandlerTests.Redo_ShouldRestorePreviousState&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.Tests.DrawingServiceTests.AddShapeHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.Tests.DrawingServiceTests.FillShapeHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.Tests.DrawingServiceTests.MoveShapeHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.Tests.DrawingServiceTests.RemoveShapeHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.Tests.FileServiceTests.LoadCanvasHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.Tests.DrawingServiceTests.InitializeCanvasHandlerTests.InitializeCanvas_ShouldFillCanvasWithSpaces&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e462f79b_002D75f9_002D4d19_002D88e3_002Dacf494ebc5fc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddShape_ShouldAddShapeToDictionary #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.Tests.DrawingServiceTests.MoveShapeHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.Tests.DrawingServiceTests.FillShapeHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.Tests.FileServiceTests.LoadCanvasHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.Tests.DrawingServiceTests.RemoveShapeHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5E86F24F-3F0C-44C1-B5A9-225F686F24D7::net8.0::ConsolePaint.Tests.Tests.DrawingServiceTests.DrawCanvasHandlerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

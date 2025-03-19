@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E86F24F-3F0C-44C1-B5A9-225F686F24D7}|ConsolePaint.Tests\\ConsolePaint.Tests.csproj|c:\\users\\kredo\\desktop\\consolepaint\\consolepaint.tests\\consolepaint.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5E86F24F-3F0C-44C1-B5A9-225F686F24D7}|ConsolePaint.Tests\\ConsolePaint.Tests.csproj|solutionrelative:consolepaint.tests\\consolepaint.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|c:\\users\\kredo\\desktop\\consolepaint\\consolepaint\\models\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|solutionrelative:consolepaint\\models\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|c:\\users\\kredo\\desktop\\consolepaint\\consolepaint\\services\\drawingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|solutionrelative:consolepaint\\services\\drawingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|c:\\users\\kredo\\desktop\\consolepaint\\consolepaint\\consolepaint.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|solutionrelative:consolepaint\\consolepaint.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|c:\\users\\kredo\\desktop\\consolepaint\\consolepaint\\models\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|solutionrelative:consolepaint\\models\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|c:\\users\\kredo\\desktop\\consolepaint\\consolepaint\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|solutionrelative:consolepaint\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|c:\\users\\kredo\\desktop\\consolepaint\\consolepaint\\services\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|solutionrelative:consolepaint\\services\\historyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|c:\\users\\kredo\\desktop\\consolepaint\\consolepaint\\models\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|solutionrelative:consolepaint\\models\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|c:\\users\\kredo\\desktop\\consolepaint\\consolepaint\\models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|solutionrelative:consolepaint\\models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|c:\\users\\kredo\\desktop\\consolepaint\\consolepaint\\interfaces\\ihistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|solutionrelative:consolepaint\\interfaces\\ihistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|c:\\users\\kredo\\desktop\\consolepaint\\consolepaint\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|solutionrelative:consolepaint\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|c:\\users\\kredo\\desktop\\consolepaint\\consolepaint\\interfaces\\idrawingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|solutionrelative:consolepaint\\interfaces\\idrawingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|c:\\users\\kredo\\desktop\\consolepaint\\consolepaint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63A4DED-AABE-41C5-AC12-9303AC831294}|ConsolePaint\\ConsolePaint.csproj|solutionrelative:consolepaint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsolePaint.Tests",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint.Tests\\ConsolePaint.Tests.csproj",
+              "RelativeDocumentMoniker": "ConsolePaint.Tests\\ConsolePaint.Tests.csproj",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint.Tests\\ConsolePaint.Tests.csproj",
+              "RelativeToolTip": "ConsolePaint.Tests\\ConsolePaint.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-19T08:01:34.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAwwH8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-19T07:54:23.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsolePaint",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\ConsolePaint.csproj",
+              "RelativeDocumentMoniker": "ConsolePaint\\ConsolePaint.csproj",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\ConsolePaint.csproj",
+              "RelativeToolTip": "ConsolePaint\\ConsolePaint.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-19T07:54:21.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DrawingService.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Services\\DrawingService.cs",
+              "RelativeDocumentMoniker": "ConsolePaint\\Services\\DrawingService.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Services\\DrawingService.cs",
+              "RelativeToolTip": "ConsolePaint\\Services\\DrawingService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAnwEMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:46:20.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "ConsolePaint\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Services\\FileService.cs",
+              "RelativeToolTip": "ConsolePaint\\Services\\FileService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwBMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:45:36.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Services\\HistoryService.cs",
+              "RelativeDocumentMoniker": "ConsolePaint\\Services\\HistoryService.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Services\\HistoryService.cs",
+              "RelativeToolTip": "ConsolePaint\\Services\\HistoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:44:45.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Models\\Rectangle.cs",
+              "RelativeDocumentMoniker": "ConsolePaint\\Models\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Models\\Rectangle.cs",
+              "RelativeToolTip": "ConsolePaint\\Models\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:43:16.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Models\\Triangle.cs",
+              "RelativeDocumentMoniker": "ConsolePaint\\Models\\Triangle.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Models\\Triangle.cs",
+              "RelativeToolTip": "ConsolePaint\\Models\\Triangle.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:44:22.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Models\\Shape.cs",
+              "RelativeDocumentMoniker": "ConsolePaint\\Models\\Shape.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Models\\Shape.cs",
+              "RelativeToolTip": "ConsolePaint\\Models\\Shape.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:43:55.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Models\\Circle.cs",
+              "RelativeDocumentMoniker": "ConsolePaint\\Models\\Circle.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Models\\Circle.cs",
+              "RelativeToolTip": "ConsolePaint\\Models\\Circle.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:42:53.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IHistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Interfaces\\IHistoryService.cs",
+              "RelativeDocumentMoniker": "ConsolePaint\\Interfaces\\IHistoryService.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Interfaces\\IHistoryService.cs",
+              "RelativeToolTip": "ConsolePaint\\Interfaces\\IHistoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:42:40.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Interfaces\\IFileService.cs",
+              "RelativeDocumentMoniker": "ConsolePaint\\Interfaces\\IFileService.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Interfaces\\IFileService.cs",
+              "RelativeToolTip": "ConsolePaint\\Interfaces\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:42:38.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDrawingService.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Interfaces\\IDrawingService.cs",
+              "RelativeDocumentMoniker": "ConsolePaint\\Interfaces\\IDrawingService.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Interfaces\\IDrawingService.cs",
+              "RelativeToolTip": "ConsolePaint\\Interfaces\\IDrawingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:42:10.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Program.cs",
+              "RelativeDocumentMoniker": "ConsolePaint\\Program.cs",
+              "ToolTip": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\Program.cs",
+              "RelativeToolTip": "ConsolePaint\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:41:43.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

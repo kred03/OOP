@@ -11,14 +11,4 @@ FirstLab - ConsolePaint ConsolePaint is a C# console application that provides b
 3) Add Background – Set a background for the figures(fillShape).
 4) Load from File – Restore a previously saved canvas state.
 5) Save Canvas – Export the current drawing to a file.
-6) 7-8) Undo/Redo Actions – Support for undoing and redoing actions to allow error correction. 🚀 How to Run Clone the repository: git clone https://github.com/panigirik/OOP.git cd ConsolePaint
-dotnet build
-Run the program: sh dotnet run
-📌 Usage The program operates through text commands, allowing users to interact with the canvas and perform various drawing operations.
-🚀 How to Run
-Clone the repository: git clone <repository_url>
-cd ConsolePaint  
-dotnet build  
-Run the program: sh dotnet run  
-📌 Usage
-The program operates through text commands, allowing users to interact with the canvas and perform various drawing operations.
+6) 7-8) Undo/Redo Actions – Support for undoing and redoing actions to allow error correction. 

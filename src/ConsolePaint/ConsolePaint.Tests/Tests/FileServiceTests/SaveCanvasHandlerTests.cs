@@ -13,22 +13,21 @@ namespace ConsolePaint.Tests.Tests.FileServiceTests
         public void SaveCanvas_ShouldCreateFile()
         {
             var fileService = new FileService();
-            // Create some sample shapes to save
+    
+            // Исправленный вызов конструктора Circle
             var shapes = new Dictionary<string, Shape>
             {
-                { "circle1", new Circle(5, '5', 3, 6, 'd') },  // Example circle (assuming Circle constructor matches)
-                { "rectangle1", new Rectangle(5, 6, 'x', 2, 3, "Rectangle1", ' ') }  // Correct Rectangle constructor with 7 arguments
+                { "circle1", new Circle("newname", '5', 'x', 6, 5, 'd') },  // Добавлено имя фигуры
+                { "rectangle1", new Rectangle(5, 6, 'x', 2, 3, "Rectangle1", ' ') }  
             };
 
-            // Ensure the file is deleted before the test starts
             if (File.Exists(_filePath))
                 File.Delete(_filePath);
 
-            // Act: Save the shapes to a file
             fileService.SaveShapes(shapes);
 
-            // Assert: Check if the file is created
             Assert.True(File.Exists(_filePath));
         }
+
     }
 }

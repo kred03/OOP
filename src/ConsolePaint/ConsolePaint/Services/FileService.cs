@@ -17,7 +17,7 @@ namespace ConsolePaint.Services
             };
         }
 
-       
+        // Save shapes to a file
         public void SaveShapes(Dictionary<string, Shape> shapes)
         {
             try
@@ -26,6 +26,7 @@ namespace ConsolePaint.Services
                 {
                     foreach (var shape in shapes)
                     {
+                        // Serialize the shape to text
                         string shapeData = shape.Value.ToText();
                         writer.WriteLine($"{shape.Key}|{shape.Value.GetType().Name}|{shapeData}");
                     }
@@ -38,6 +39,7 @@ namespace ConsolePaint.Services
             }
         }
 
+        // Load shapes from a file
         public Dictionary<string, Shape> LoadShapes()
         {
             var shapes = new Dictionary<string, Shape>();

@@ -1,5 +1,5 @@
-﻿    namespace ConsolePaint.Models;
-
+﻿namespace ConsolePaint.Models
+{
     public class Rectangle : Shape
     {
         public int Width { get; set; }
@@ -10,7 +10,6 @@
             return $"{x},{y},{Width},{Height},{BorderChar},{FillCharacter}";
         }
 
-        
         public static Rectangle FromText(string data)
         {
             var parts = data.Split(',');
@@ -25,9 +24,8 @@
             return new Rectangle(width, height, borderChar, x, y, "LoadedRectangle", fillCharacter);
         }
 
-
-        
         public Rectangle(int width, int height, char borderChar, int x, int y, string name, char fillCharacter)
+            : base(name, x, y, borderChar, fillCharacter)
         {
             Width = width;
             Height = height;
@@ -38,7 +36,7 @@
             FillCharacter = fillCharacter;
         }
 
-        public override void DrawOnCanvas(char[,] canvas, char fillChar)  
+        public override void DrawOnCanvas(char[,] canvas, char fillChar)
         {
             for (int i = 0; i < Height; i++)
             {
@@ -61,10 +59,15 @@
                 }
             }
         }
-        
+
         public override bool IsInside(int testX, int testY)
         {
             return testX >= x && testX < x + Width && testY >= y && testY < y + Height;
         }
 
+        public override object Clone()
+        {
+            return new Rectangle(Width, Height, BorderChar, x, y, Name, FillCharacter);
+        }
     }
+}

@@ -74,7 +74,7 @@ public class DrawingService : IDrawingService
                 Console.Write("Введите символ границы: ");
                 char circBorder = Console.ReadKey().KeyChar;
                 Console.WriteLine();
-                shape = new Circle(radius, circBorder, x, y, fillChar);
+                shape = new Circle(name, radius, circBorder, x, y, fillChar);
                 break;
             case "triangle":
                 int triHeight = GetCoordinate("Введите высоту: ");
@@ -139,6 +139,8 @@ public class DrawingService : IDrawingService
         int newX = GetCoordinate("Введите новую x: ");
         int newY = GetCoordinate("Введите новую y: ");
 
+        historyService.SaveState(new Dictionary<string, Shape>(shapes));
+
         Shape shape = shapes[name];
         shape.Move(newX, newY);
 
@@ -164,8 +166,6 @@ public class DrawingService : IDrawingService
         RedrawCanvas();
     }
 
-
-
     public void Undo()
     {
         historyService.Undo(ref shapes);
@@ -189,13 +189,10 @@ public class DrawingService : IDrawingService
         InitializeCanvas();
         foreach (var shape in shapes.Values)
         {
-            char fillChar = shape.FillCharacter;
-        
-            shape.DrawOnCanvas(_canvas, fillChar);
+            shape.DrawOnCanvas(_canvas, shape.FillCharacter);
         }
         DrawCanvas(saveToFile);
     }
-
 
     private int GetCoordinate(string prompt)
     {

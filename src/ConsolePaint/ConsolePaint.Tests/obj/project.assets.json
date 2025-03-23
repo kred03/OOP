@@ -409,9 +409,6 @@
       "ConsolePaint/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "xunit": "2.9.3"
-        },
         "compile": {
           "bin/placeholder/ConsolePaint.dll": {}
         },
@@ -881,23 +878,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kredo\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\V": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint.Tests\\ConsolePaint.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\RiderProjects\\ConsolePaint\\ConsolePaint.Tests\\ConsolePaint.Tests.csproj",
       "projectName": "ConsolePaint.Tests",
-      "projectPath": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint.Tests\\ConsolePaint.Tests.csproj",
-      "packagesPath": "C:\\Users\\Kredo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint.Tests\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\RiderProjects\\ConsolePaint\\ConsolePaint.Tests\\ConsolePaint.Tests.csproj",
+      "packagesPath": "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\V",
+      "outputPath": "C:\\Users\\Admin\\RiderProjects\\ConsolePaint\\ConsolePaint.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Kredo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -913,8 +910,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\ConsolePaint.csproj": {
-              "projectPath": "C:\\Users\\Kredo\\Desktop\\ConsolePaint\\ConsolePaint\\ConsolePaint.csproj"
+            "C:\\Users\\Admin\\RiderProjects\\ConsolePaint\\ConsolePaint\\ConsolePaint.csproj": {
+              "projectPath": "C:\\Users\\Admin\\RiderProjects\\ConsolePaint\\ConsolePaint\\ConsolePaint.csproj"
             }
           }
         }
@@ -923,13 +920,7 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -966,19 +957,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Предупреждение как ошибка: Обнаружено понижение версии пакета xunit с 2.9.3 на 2.9.0. Чтобы выбрать другую версию, создайте ссылку на пакет напрямую из проекта. \r\n ConsolePaint.Tests -> ConsolePaint -> xunit (>= 2.9.3) \r\n ConsolePaint.Tests -> xunit (>= 2.9.0)",
-      "libraryId": "xunit",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  }
 }
